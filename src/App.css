@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+  }
+  #yourarmy {
+  font-style: oblique;
+  font-weight: bolder;
+  font-size: large;}
+  
+  
+  #coll {
+  /* color: #2196f3; */
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: large;
+    justify-content: center;
+    
+    
+  }
+  
+  .text-wrap {
+    word-wrap: break-word;
+    /* justify-content: center; */
+  
+  }
+  
+  
+  .bot-army {
+    overflow-x: scroll;
+    min-height: 300px;
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+  
+  .ui.grid {
+    padding: 0px 20px;
+  
+  }
+  #text {
+    justify-content: center;
+    color:black
+    
+  
+  }
